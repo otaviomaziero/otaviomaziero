@@ -1,4 +1,4 @@
-### Hi there 👋
+### seja bem vindo 👋
 
 <!--
 **otaviomaziero/otaviomaziero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
